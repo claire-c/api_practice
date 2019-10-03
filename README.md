@@ -14,6 +14,9 @@ After you've cloned the app from the repo:
 3. Run app:
 `rails s`
 
+4. Run tests:
+`bundle exec rspec`
+
 ## Calling API
 Call API via `localhost:3000/json_objects`
 
