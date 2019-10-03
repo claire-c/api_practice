@@ -7,3 +7,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+JsonObject.create(json_string: {"hello": "goodbye", "hiya": "cheerio"})
+JsonObject.create(json_string: {"easy": "hard", "little": "large"})
+Bicycle.create(brand: "Trek", colour: "black", tyre_width: 28)
+Bicycle.create(brand: "Gazelle", colour: "grey", tyre_width: 35)
